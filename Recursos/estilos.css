@@ -1,0 +1,72 @@
+ul{
+    list-style-image: url("/Recursos/media/gojo2.jpg");
+}
+
+@font-face {
+    font-family: fuente123;
+    src: url(/Recursos/Fuente/aAbsoluteEmpire.otf);
+}
+
+.fondoimagen{
+    background-image: url(Media/fondogojo.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: 10rem;
+    padding: 25px;
+}
+
+body{
+    background-color: #CE83FF;
+    /*background-image: url("/Recursos/Media/fondogojo.jpg");*/
+    font-family: sans-serif;
+    padding: 5em;
+}
+
+.fondobeige{
+    background-color: #FAF6CB;
+}
+
+.fondoazul{
+    background-color: #1DEEE2;
+}
+
+.fondonegro{
+    background-color: black;
+}
+
+.texto1{
+    text-align: center;
+    font-size: 4em;
+    color: darkgray;
+}
+
+.texto2{
+    text-align: left;
+    font-size: 14px;
+    color: white;
+}
+
+.texto3{
+    text-align: center;
+    font-size: 1em;
+    color: white;
+}
+
+.texto4{
+    text-align: left;
+    font-size: 1em;
+    color: white;
+    font-family: fuente123;
+    padding-left: 15px;
+}
+
+.imagenEstilo{
+    width: 100%;
+    text-align: center;
+}
+
+.bordebeige{
+    border: 20px solid #FAF6CB;
+    border-radius:15px;
+}
