@@ -1,0 +1,68 @@
+body{
+    padding-top: 5em;
+    padding-left: 8em;
+    padding-right: 8em;
+}
+
+
+.fondoaqua{
+    background-color: rgb(26, 188, 156);
+}
+
+.fondoazul{
+    background-color: rgb(0, 255, 255);
+}
+
+.fondomorado{
+    background-color: rgb(155, 89, 182);
+}
+
+
+.tamaño75{
+    width: 75%;
+}
+
+.tamaño100{
+    width: 100%;
+}
+
+.tamaño20{
+    width: 20%;
+}
+
+
+.tamañoletra{
+    font-size: 30px;
+}
+
+.letrablanca{
+    color: white;
+}
+
+
+.bordeblancorayado{
+    border: 5px dashed white;
+}
+
+.bordeblancogrueso{
+    border: 5px solid white;
+}
+
+.bordeblancodelgado{
+    border: 3px solid white;
+}
+
+.borderojorayado{
+    border: 5px dashed red;
+}
+
+
+.margen1{
+    margin: 0px;
+    padding: 5px;
+}
+
+.margen2{
+    margin-left: 10%;
+    margin-right: 10%;
+}

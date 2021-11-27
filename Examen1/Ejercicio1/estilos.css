@@ -1,0 +1,48 @@
+body{
+    padding-top: 1em;
+    padding-left: 12em;
+    padding-right: 12em;
+}
+
+.fondoaqua{
+    background-color: rgb(26, 188, 156);
+}
+
+.fondoverde{
+    background-color: rgb(46, 204, 113);
+}
+
+.fondorojo{
+    background-color: rgb(231, 76, 60);
+}
+
+.fondomorado{
+   background-color: rgb(155, 89, 182); 
+}
+
+
+.tamaño100{
+    width: 100%;
+}
+
+.tamaño35{
+    width: 35%;
+}
+
+.tamaño20{
+    width: 20%;
+}
+
+
+.bordeblanco{
+    border: 3px solid white;
+}
+
+
+.tamañoletra{
+    font-size: 30px;
+}
+
+.letrablanca{
+    color: white;
+}
